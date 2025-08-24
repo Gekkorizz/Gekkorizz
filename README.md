@@ -19,7 +19,6 @@
 ⭐ <b>Location:</b> Bangalore, India  
 🎓 <b>Status:</b> Computer Science Student  
 🏫 <b>University:</b> Bangalore Institute of Technology  
-🌱 <b>Learning:</b> Spring Boot, System Design, Cloud Technologies
 
 </td>
 <td width="48%" valign="top">
@@ -28,9 +27,7 @@
 
 🌐 <b>Frontend Development</b>  
 🎨 <b>UI/UX Design</b>  
-⚙️ <b>Backend Systems</b>  
-🛠️ <b>Full Stack Development</b>  
-🎮 <b>Gaming & Design</b>  
+🛠️ <b>Full Stack Development</b><br>
 🧩 <b>Problem Solving</b>
 
 </td>
